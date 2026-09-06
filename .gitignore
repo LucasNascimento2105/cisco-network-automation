@@ -1,0 +1,3 @@
+backup_*.txt
+__pycache__/
+*.pyc
