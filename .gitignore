@@ -1,3 +1,10 @@
-backup_*.txt
+# Cache e arquivos compilados do Python
 __pycache__/
 *.pyc
+
+# Senhas e Credenciais (CRÍTICO)
+.env
+
+# Arquivos de Backup do Roteador
+backup_*.txt
+backups/
